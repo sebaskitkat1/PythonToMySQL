@@ -150,7 +150,6 @@ try:
             #Default para opciones no válidas
             else:
                 print("Opción no válida. Por favor, intente de nuevo.")
-                print("Por favor intente con las opciones disponibles: 1, 2, 3.")
                 
         # Cerrar cursor y conexión
         cursor.close()
